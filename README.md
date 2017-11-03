@@ -1,2 +1,3 @@
 # test_linuxkernel
-The code used to test function of git
+#VERSION OF KERNEL 2.6.32
+
